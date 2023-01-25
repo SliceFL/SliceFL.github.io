@@ -1,9 +1,17 @@
 main:
-  - title: "Posts"
+  - title: "Home"
     url: /posts/
-  - title: "Categories"
+  - title: "About us"
     url: /categories/
-  - title: "Tags"
+  - title: "Publications"
     url: /tags/
-  - title: "About"
+  - title: "Downloads"
     url: /about/
+    
+docs:
+  - title: Navigation
+    children:
+      - title: "Stylesheets"
+        url: #/docs/stylesheets/
+      - title: "JavaScript"
+        url: #/docs/javascript/
