@@ -23,7 +23,8 @@ twitter_username: username
 github_username: username
 minimal_mistakes_skin: dark
 search: true
-
+logo: "/assets/images/hop.png"
+repository: "samuraisnail/slice-fl"
 # Build settings
 markdown: kramdown
 remote_theme: mmistakes/minimal-mistakes
@@ -61,6 +62,7 @@ plugins:
   - jekyll-feed
   - jemoji
   - jekyll-include-cache
+  - jekyll-scholar
 
 whitelist:
   - jekyll-paginate
@@ -107,7 +109,14 @@ defaults:
     values:
       layout: single
       author_profile: true
-      
+      sidebar:
+        nav: "docs"
+  - scope:
+      path: ""
+      type: tag
+    values:
+      sidebar:
+        nav: "docs"
 
 category_archive:
   type: liquid
@@ -115,3 +124,10 @@ category_archive:
 tag_archive:
   type: liquid
   path: /tags/
+jekyll-archives:
+  enabled:
+    - categories
+    - tags
+  layouts:
+    category: archive-taxonomy
+    tag: single

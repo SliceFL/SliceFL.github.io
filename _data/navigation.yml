@@ -1,6 +1,6 @@
 main:
   - title: "Home"
-    url: /posts/
+    url: /home/
   - title: "About us"
     url: /categories/
   - title: "Publications"
@@ -11,7 +11,11 @@ main:
 docs:
   - title: Navigation
     children:
-      - title: "Stylesheets"
-        url: #/docs/stylesheets/
-      - title: "JavaScript"
-        url: #/docs/javascript/
+      - title: "Home"
+        url: /home/
+      - title: "About us"
+        url: /categories/
+      - title: "Publications"
+        url: /tags/
+      - title: "Downloads"
+        url: /about/
