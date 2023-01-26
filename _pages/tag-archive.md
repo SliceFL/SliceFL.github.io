@@ -1,10 +1,14 @@
 ---
-title: "Posts by Tag"
+title: "Published papers"
 permalink: /tags/
-layout: tags
+
 author_profile: true
 toc: true
 toc_label: "Content"
 toc_icon: "cog"
 ---
-# H1 header
+## Conference papers
+
+## Journal papers
+
+## Other

@@ -1,13 +1,13 @@
 ---
 
 permalink: /home/
-title: "Some homepage"
+title: "Homepage of the Slice-FL project"
 author_profile: true
 toc: true
 toc_label: "Content"
 toc_icon: "cog"
 ---
 
-# HOME
+## What is Slice-FL
 
 Nyuszika

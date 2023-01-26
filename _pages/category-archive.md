@@ -1,5 +1,5 @@
 ---
-title: "Posts by Category"
+title: "Downloads"
 
 permalink: /categories/
 author_profile: true
@@ -8,8 +8,7 @@ toc_label: "Content"
 toc_icon: "cog"
 ---
 
-# Valami
+## Replication packages
 
-## Random
+## Tool releases
 
-### Szöveg

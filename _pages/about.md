@@ -1,11 +1,19 @@
 ---
 permalink: /about/
-title: "About"
+title: "About Slice-FL"
 toc: true
 toc_label: "Content"
 toc_icon: "cog"
 ---
-# H1
+
 Ez itt egy about page
-## H2
-asd
+
+## The team
+Nevek
+
+## How to cite Slice-FL
+cite cite
+
+### Paper 1
+
+### Paper 2

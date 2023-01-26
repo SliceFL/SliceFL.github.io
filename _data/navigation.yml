@@ -2,11 +2,11 @@ main:
   - title: "Home"
     url: /home/
   - title: "About us"
-    url: /categories/
+    url: /about/
   - title: "Publications"
     url: /tags/
   - title: "Downloads"
-    url: /about/
+    url: /categories/
     
 docs:
   - title: Navigation
@@ -14,8 +14,8 @@ docs:
       - title: "Home"
         url: /home/
       - title: "About us"
-        url: /categories/
+        url: /about/
       - title: "Publications"
         url: /tags/
       - title: "Downloads"
-        url: /about/
+        url: /categories/
