@@ -4,9 +4,9 @@ main:
   - title: "About us"
     url: /about/
   - title: "Publications"
-    url: /tags/
+    url: /publications/
   - title: "Downloads"
-    url: /categories/
+    url: /downloads/
     
 docs:
   - title: Navigation
@@ -16,6 +16,6 @@ docs:
       - title: "About us"
         url: /about/
       - title: "Publications"
-        url: /tags/
+        url: /publications/
       - title: "Downloads"
-        url: /categories/
+        url: /downloads/

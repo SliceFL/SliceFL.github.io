@@ -1,19 +1,37 @@
 ---
 permalink: /about/
-title: "About Slice-FL"
+title: "Contributors of the SliceFL"
 toc: true
 toc_label: "Content"
 toc_icon: "cog"
 ---
 
-Ez itt egy about page
+In this page you can contact all the team members...
 
 ## The team
-Nevek
 
-## How to cite Slice-FL
-cite cite
+### Dr. Árpád Beszédes
 
-### Paper 1
+- [webpage](http://www.inf.u-szeged.hu/~beszedes/eng/index.html)
+- [e-mail](mailto:beszedes@inf.u-szeged.hu)
+  
+### Dr. Tamás Gergely
 
-### Paper 2
+- [webpage](http://www.inf.u-szeged.hu/~gertom)
+- [e-mail](mailto:gertom@inf.u-szeged.hu)
+  
+### Ferenc Horváth
+
+- [webpage](http://www.inf.u-szeged.hu/~hferenc)
+- [e-mail](mailto:hferenc@inf.u-szeged.hu) 
+  
+### Béla Vancsics
+
+- [webpage](http://www.inf.u-szeged.hu/~vancsics)
+- [e-mail](mailto:vancsics@inf.u-szeged.hu) 
+  
+### Péter Attila Soha
+
+- [webpage](http://www.inf.u-szeged.hu/~psoha)
+- [e-mail](mailto:psoha@inf.u-szeged.hu) 
+

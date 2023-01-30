@@ -131,3 +131,7 @@ jekyll-archives:
   layouts:
     category: archive-taxonomy
     tag: single
+    
+    
+head_scripts:
+    - "https://kit.fontawesome.com/17f857d6c4.js"
