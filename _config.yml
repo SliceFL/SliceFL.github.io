@@ -16,11 +16,9 @@
 title: SliceFL
 email:
 description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
-twitter_username: username
-github_username: username
+  The SliceFL project aims to test fault localisation methods and increase their efficiency. Our main research areas are spectrum-based fault localisation, program slicing and their combined applications. If you are interested in this topic, you can find our contact details under "About us". Under the "Publications" tab, we list the articles published so far, for which you can find supplementary material under "Downloads".
+twitter_username: tba
+github_username: tba
 minimal_mistakes_skin: dark
 search: true
 logo: "/assets/images/hop.png"
