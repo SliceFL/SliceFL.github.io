@@ -1,6 +1,4 @@
 main:
-  - title: "Home"
-    url: /home/
   - title: "About us"
     url: /about/
   - title: "Publications"
@@ -12,7 +10,7 @@ docs:
   - title: Navigation
     children:
       - title: "Home"
-        url: /home/
+        url: /
       - title: "About us"
         url: /about/
       - title: "Publications"
