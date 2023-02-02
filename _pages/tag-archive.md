@@ -18,7 +18,3 @@ toc_icon: "cog"
 - [abstract](http://www.inf.u-szeged.hu/~beszedes/research/SGH23.html) / [preprint](http://www.inf.u-szeged.hu/~beszedes/research/SGH23.pdf)
 
 ---
-
-## Journal papers
-
-## Other

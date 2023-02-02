@@ -13,7 +13,3 @@ toc_icon: "cog"
 ### A Case Against Coverage-Based Program Spectra
 
 - On [Zenodo](https://zenodo.org/record/7229602)
-
-## Tool releases
-
-- **TBA**
