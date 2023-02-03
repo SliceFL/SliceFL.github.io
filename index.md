@@ -1,7 +1,5 @@
 ---
-
-permalink: /
-title: "Homepage of the Slice-FL project"
+title: "Homepage of the SliceFL project"
 author_profile: true
 toc: true
 toc_label: "Content"
@@ -58,6 +56,29 @@ public class CircleTest extends TestCase {
 ```
 
 In contrast, with the slicing approach (as shown in the second table), it is clearly the faulty row that already gets the highest value. The reason for this is that the Kör object used here has already been created, so when the slice is calculated, the instructions in it will not be rerun and therefore will not be included in the slice (unlike the second test, where a new object is used).
-![coverage](/assets/images/coverage.png)
 
-![slice](/assets/images/slice.png)
+#### Coverage-based spectrum and Fault Localization results
+
+|       |  4  |  5  |  6  |  8  |  9  |  11 |  12 | R |
+|:-----:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:-:|
+| C(t1) |  1  |  1  |  1  |  1  |  1  |  0  |  0  | 0 |
+| C(t2) |  1  |  1  |  1  |  0  |  0  |  1  |  1  | 1 |
+| C(t3) |  0  |  0  |  0  |  0  |  0  |  1  |  1  | 0 |
+| ef    |  1  |  1  |  1  |  0  |  0  |  1  |  1  |   |
+| ep    |  1  |  1  |  1  |  1  |  1  |  1  |  1  |   |
+| nf    |  0  |  0  |  0  |  1  |  1  |  0  |  0  |   |
+| np    |  1  |  1  |  1  |  1  |  1  |  1  |  1  |   |
+| Bar   | 0.5 | 0.5 | 0.5 | 0.0 | 0.0 | 0.5 | 0.5 |   |
+
+#### Slice-based spectrum and Fault Localization results
+
+|        |  4  |  5  |  6  |  8  |  9  |  11 |  12 | R |
+|:------:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:-:|
+| DS(t1) |  1  |  1  |  0  |  1  |  1  |  0  |  0  | 0 |
+| DS(t2) |  1  |  0  |  1  |  0  |  0  |  1  |  1  | 1 |
+| DS(t3) |  0  |  0  |  0  |  0  |  0  |  1  |  1  | 0 |
+| ef     |  1  |  0  |  1  |  0  |  0  |  1  |  1  |   |
+| ep     |  1  |  1  |  0  |  1  |  1  |  1  |  1  |   |
+| nf     |  0  |  1  |  0  |  1  |  1  |  0  |  0  |   |
+| np     |  1  |  1  |  2  |  1  |  1  |  1  |  1  |   |
+| Bar    | 0.5 | 0.0 | 1.0 | 0.0 | 0.0 | 0.5 | 0.5 |   |

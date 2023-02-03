@@ -1,12 +1,11 @@
 ---
 permalink: /about/
-title: "Contributors of the SliceFL"
+title: "Contributors of the SliceFL project"
 toc: true
 toc_label: "Content"
 toc_icon: "cog"
 ---
 
-In this page you can contact all the team members...
 
 ## The team
 

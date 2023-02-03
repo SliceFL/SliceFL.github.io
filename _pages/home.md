@@ -1,7 +1,7 @@
 ---
 
 permalink: /home/
-title: "Homepage of the Slice-FL project"
+title: "Homepage of the SliceFL project"
 author_profile: true
 toc: true
 toc_label: "Content"
