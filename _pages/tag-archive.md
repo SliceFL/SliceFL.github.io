@@ -13,8 +13,11 @@ toc_icon: "cog"
 
 #### A Case Against Coverage-Based Program Spectra
 
-- *authors*: "Péter Attila Soha, Tamás Gergely, Ferenc Horváth, Béla Vancsics, Árpád Beszédes"
-- *conference*: "16th IEEE International Conference on Software Testing, Verification and Validation (ICST) 2023"
-- [abstract](http://www.inf.u-szeged.hu/~beszedes/research/SGH23.html) / [preprint](http://www.inf.u-szeged.hu/~beszedes/research/SGH23.pdf)
+- Soha, P. A., Gergely, T., Horváth, F., Vancsics, B. and Beszédes, Á. A Case Against Coverage-Based Program Spectra. Accepted for presentation at the 16th IEEE International Conference on Software Testing, Verification and Validation [ICST 2023](https://conf.researchr.org/home/icst-2023). Dublin, Ireland, April 16-22, 2023. 
+- [abstract](http://www.inf.u-szeged.hu/~beszedes/research/SGH23.html) / [preprint](http://www.inf.u-szeged.hu/~beszedes/research/SGH23.pdf) / [BibTeX entry](http://www.inf.u-szeged.hu/~beszedes/research/SGH23.bib)
 
 ---
+
+### How to cite
+
+*For each paper we provide the proper BibTeX entry, that can be used to refer the chosen publication.*
