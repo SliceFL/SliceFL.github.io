@@ -66,7 +66,7 @@ public class CircleTest extends TestCase {
 }
 ```
 
-In contrast, with the slicing approach (as shown in the second table), it is clearly the faulty row that already gets the highest value. The reason for this is that the Kör object used here has already been created, so when the slice is calculated, the instructions in it will not be rerun and therefore will not be included in the slice (unlike the second test, where a new object is used).
+In contrast, with the slicing approach (as shown in the second table), it is clearly the faulty row that already gets the highest value. The reason for this is that the Circle object used here has already been created, so when the slice is calculated, the instructions in it will not be rerun and therefore will not be included in the slice (unlike the second test, where a new object is used).
 
 #### Coverage-based spectrum and Fault Localization results
 
