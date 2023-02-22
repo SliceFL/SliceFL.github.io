@@ -1,6 +1,8 @@
 main:
   - title: "About us"
     url: /about/
+  - title: "Techiques"
+    url: /techniques/
   - title: "Publications"
     url: /publications/
   - title: "Downloads"
@@ -11,6 +13,8 @@ docs:
     children:
       - title: "Home"
         url: /
+      - title: "Techiques"
+        url: /techniques/
       - title: "About us"
         url: /about/
       - title: "Publications"
