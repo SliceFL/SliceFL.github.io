@@ -7,7 +7,7 @@ toc: true
 toc_label: "Content"
 toc_icon: "cog"
 header:
-  overlay_image: /assets/images/funnyarpi.png
+  overlay_image: /assets/images/tesztkep.jpg
 ---
 ## Introduction to Spectrum-Based Fault Localization
 Spectrum-based fault localization (SBFL) is a widely adopted technique used to identify faults in software systems. The technique is based on the hypothesis that the component with the highest number of failing test cases is likely to be the root cause of a fault. SBFL is widely used in software debugging and is known for its simplicity, efficiency, and accuracy compared to other fault localization techniques.

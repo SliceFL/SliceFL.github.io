@@ -5,7 +5,7 @@ toc: true
 toc_label: "Content"
 toc_icon: "cog"
 header:
-  overlay_image: /assets/images/funnyarpi.png
+  overlay_image: /assets/images/tesztkep.png
 ---
 
 ### Program Slicing
