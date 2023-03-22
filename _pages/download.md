@@ -6,6 +6,7 @@ author_profile: true
 toc: true
 toc_label: "Content"
 toc_icon: "cog"
+toc_sticky: true
 ---
 
 ## Replication packages
@@ -22,4 +23,4 @@ toc_icon: "cog"
 
 #### Package
 
-The *`Dataset.zip`* is available [here](https://zenodo.org/record/7229602/files/Dataset.zip?download=1).
+To obtain the replication package, please donwload [*`Dataset.zip`*](https://zenodo.org/record/7229602/files/Dataset.zip?download=1) from Zenodo.

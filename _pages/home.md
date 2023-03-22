@@ -6,6 +6,7 @@ author_profile: true
 toc: true
 toc_label: "Content"
 toc_icon: "cog"
+toc_sticky: true
 ---
 
 ## The fate of the developer

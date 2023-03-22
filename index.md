@@ -5,6 +5,7 @@ toc: true
 toc_label: "Content"
 toc_icon: "cog"
 layout: single
+toc_sticky: true
 ---
 
 ## Animation

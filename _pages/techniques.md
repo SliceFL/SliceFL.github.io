@@ -4,6 +4,7 @@ title: "Techniques"
 toc: true
 toc_label: "Content"
 toc_icon: "cog"
+toc_sticky: true
 header:
   overlay_image: /assets/images/tesztkep3.jpg
 ---

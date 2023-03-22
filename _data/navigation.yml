@@ -1,23 +1,23 @@
 main:
   - title: "About us"
     url: /about/
-  - title: "Techiques"
+  - title: "Techniques"
     url: /techniques/
   - title: "Publications"
     url: /publications/
   - title: "Downloads"
     url: /downloads/
     
-docs:
-  - title: Navigation
-    children:
-      - title: "Home"
-        url: /
-      - title: "Techiques"
-        url: /techniques/
-      - title: "About us"
-        url: /about/
-      - title: "Publications"
-        url: /publications/
-      - title: "Downloads"
-        url: /downloads/
+#docs:
+#  - title: Navigation
+#    children:
+#      - title: "Home"
+#        url: /
+#      - title: "Techniques"
+#        url: /techniques/
+#      - title: "About us"
+#        url: /about/
+#      - title: "Publications"
+#        url: /publications/
+#      - title: "Downloads"
+#        url: /downloads/
