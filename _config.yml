@@ -135,12 +135,7 @@ collections:
         output: true
         sort_by: memord
     
-carousels:
-  - images: 
-    - image: /assets/images/tesztkep.png
-    - image: /assets/images/tesztkep.jpg
-    - image: /assets/images/tesztkep3.png
-    - image: /assets/images/coverage.png    
+ 
     
 head_scripts:
     - "https://kit.fontawesome.com/17f857d6c4.js"
