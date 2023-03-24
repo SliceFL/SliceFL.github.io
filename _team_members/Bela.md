@@ -1,11 +1,10 @@
 ---
 name: Béla Vancsics
-position: Béla bácsi
+position: X
 avatar: "/assets/images/funnyarpi.png"
+memord: 004
 links:
 - label: "Website"
   icon: "fas fa-fw fa-link"
   url: "http://www.inf.u-szeged.hu/~vancsics"
 ---
-
-Egy jó levegő? De nem veled...

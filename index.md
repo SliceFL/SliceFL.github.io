@@ -8,9 +8,8 @@ layout: single
 toc_sticky: true
 ---
 
-## Animation
 
-![image-center](/assets/images/slice_gif_anim.gif){: .align-center}
+{% include carousel.html height="50" unit="%" duration="7" number="1" %}
 
 
 ## The Slice-FL appears
