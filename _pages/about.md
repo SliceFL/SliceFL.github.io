@@ -7,7 +7,9 @@ toc_icon: "cog"
 toc_sticky: true
 
 ---
+## Contact us!
 
+If you interested in any of our topics or just have a question, please contact us on <a href="mailto:slicefl@inf.u-szeged.hu">slicefl@inf.u-szeged.hu</a>
 
 ## The team
 
