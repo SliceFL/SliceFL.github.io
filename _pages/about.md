@@ -5,33 +5,17 @@ toc: true
 toc_label: "Content"
 toc_icon: "cog"
 toc_sticky: true
+
 ---
 
 
 ## The team
 
-### Team lead
-
-- [Dr. Árpád Beszédes](http://www.inf.u-szeged.hu/~beszedes/eng/index.html)
-
-  
-### 2nd team lead
-
-- [Dr. Tamás Gergely](http://www.inf.u-szeged.hu/~gertom)
-
-  
-### Ferenc Horváth
-
-- [Ferenc Horváth](http://www.inf.u-szeged.hu/~hferenc)
- 
-  
-### Béla Vancsics
-
-- [Béla Vancsics](http://www.inf.u-szeged.hu/~vancsics)
- 
-  
-### Péter Attila Soha
-
-- [Péter Attila Soha](http://www.inf.u-szeged.hu/~psoha)
+{% for team_member in site.team_members %}
+  <img src="{{team_member.avatar}}" width="100" height="100"/>
+  <a href="{{team_member.links.url}}">{{ team_member.name }}</a> - {{ team_member.position }}
+  <p><em>Quote: </em>{{ team_member.content | markdownify }}</p>
+  <hr>
+{% endfor %}
 
 
