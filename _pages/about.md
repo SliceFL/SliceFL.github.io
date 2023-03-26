@@ -7,9 +7,10 @@ toc_icon: "cog"
 toc_sticky: true
 
 ---
-## Contact us!
 
-If you interested in any of our topics or just have a question, please contact us on <a href="mailto:slicefl@inf.u-szeged.hu">slicefl@inf.u-szeged.hu</a>
+## Introduction
+
+The SliceFL project was created and is maintained by the Software Testing Group of the Department of Software Development at the University of Szeged, Institute of Informatics. Its research interests include testing, debugging and investigating the effectiveness of automatic debugging methods.
 
 ## The team
 
@@ -20,4 +21,6 @@ If you interested in any of our topics or just have a question, please contact u
   <hr>
 {% endfor %}
 
+## Contact us!
 
+If you interested in any of our topics or just have a question, please contact us on <a href="mailto:slicefl@inf.u-szeged.hu">slicefl@inf.u-szeged.hu</a>

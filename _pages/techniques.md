@@ -11,7 +11,6 @@ header:
   overlay_image: /assets/images/deszka.jpg
 
 ---
-# Introduction
 
 # Fundamentals
 
