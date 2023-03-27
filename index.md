@@ -9,16 +9,16 @@ toc_sticky: true
 
 carousels:
   - images: 
-    - image: /assets/images/slideshow/pic1.png
-    - image: /assets/images/slideshow/pic2.png
-    - image: /assets/images/slideshow/pic3.png
-    - image: /assets/images/slideshow/pic4.png
-    - image: /assets/images/slideshow/pic5.png
-    - image: /assets/images/slideshow/pic6.png
-    - image: /assets/images/slideshow/pic7.png
-    - image: /assets/images/slideshow/pic8.png
-    - image: /assets/images/slideshow/pic9.png
-    - image: /assets/images/slideshow/pic91.png    
+    - image: /assets/images/slide_show/pic1.png
+    - image: /assets/images/slide_show/pic2.png
+    - image: /assets/images/slide_show/pic3.png
+    - image: /assets/images/slide_show/pic4.png
+    - image: /assets/images/slide_show/pic5.png
+    - image: /assets/images/slide_show/pic6.png
+    - image: /assets/images/slide_show/pic7.png
+    - image: /assets/images/slide_show/pic8.png
+    - image: /assets/images/slide_show/pic9.png
+    - image: /assets/images/slide_show/pic91.png    
 ---
 
 
