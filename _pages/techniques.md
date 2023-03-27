@@ -11,21 +11,6 @@ header:
   overlay_image: /assets/images/deszka.jpg
 
 ---
-
-# Fundamentals
-
-{% assign entries_layout = page.entries_layout | default: 'list' %}
-{% for post in site.posts %}
-{% if post.categories contains "Fundamentals"%}
-<section id="Fundamentals" class="taxonomy__section">  
-    <div class="entries-{{ entries_layout }}">
-    {% include archive-single.html type=entries_layout %}
-      </div>
-      <a href="#page-title" class="back-to-top">{{ site.data.ui-text[site.locale].back_to_top | default: 'Back to Top' }} &uarr;</a>
-  </section>
-{%endif%}
-{% endfor %}
-
 # Advanced Techniques
 
 {% assign entries_layout = page.entries_layout | default: 'list' %}
@@ -39,3 +24,18 @@ header:
   </section>
 {%endif%}
 {% endfor %}
+
+# Fundamentals
+
+{% assign entries_layout = page.entries_layout | default: 'list' %}
+{% for post in site.posts reversed %}
+{% if post.categories contains "Fundamentals"%}
+<section id="Fundamentals" class="taxonomy__section">  
+    <div class="entries-{{ entries_layout }}">
+    {% include archive-single.html type=entries_layout %}
+      </div>
+      <a href="#page-title" class="back-to-top">{{ site.data.ui-text[site.locale].back_to_top | default: 'Back to Top' }} &uarr;</a>
+  </section>
+{%endif%}
+{% endfor %}
+
