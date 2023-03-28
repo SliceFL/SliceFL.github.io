@@ -1,6 +1,6 @@
 ---
 name: Ferenc Horváth
-position: X
+position: Assistant lecturer
 avatar: "/assets/images/funnyarpi.png"
 memord: 003
 links:

@@ -1,6 +1,6 @@
 ---
 name: Béla Vancsics
-position: X
+position: PhD cancidate
 avatar: "/assets/images/funnyarpi.png"
 memord: 004
 links:

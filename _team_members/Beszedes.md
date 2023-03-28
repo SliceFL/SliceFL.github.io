@@ -1,6 +1,6 @@
 ---
 name: Dr. Árpád Beszédes
-position: X
+position: Associate professor
 avatar: "/assets/images/funnyarpi.png"
 memord: 001
 links:

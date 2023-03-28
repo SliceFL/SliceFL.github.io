@@ -1,6 +1,6 @@
 ---
 name: Péter Attila Soha
-position: X
+position: PhD student
 avatar: "/assets/images/funnyarpi.png"
 memord: 005
 links:

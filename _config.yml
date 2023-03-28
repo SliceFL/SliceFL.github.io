@@ -21,7 +21,7 @@ twitter_username: tba
 github_username: tba
 minimal_mistakes_skin: dark
 search: true
-logo: "/assets/images/fllogopre.PNG"
+#logo: "/assets/images/fllogopre.PNG"
 repository: "samuraisnail/slice-fl"
 # Build settings
 markdown: kramdown

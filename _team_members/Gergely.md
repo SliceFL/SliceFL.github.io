@@ -1,6 +1,6 @@
 ---
 name: Dr. Tamás Gergely
-position: X
+position: Assistant professor
 avatar: "/assets/images/funnyarpi.png"
 memord: 002
 links:
