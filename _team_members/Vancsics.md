@@ -1,7 +1,7 @@
 ---
 name: Béla Vancsics
 position: PhD cancidate
-avatar: "/assets/images/funnyarpi.png"
+avatar: "/assets/images/veggies/vancsics.png"
 memord: 004
 links:
 - label: "Website"

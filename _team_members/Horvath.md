@@ -1,7 +1,7 @@
 ---
 name: Ferenc Horváth
 position: Assistant lecturer
-avatar: "/assets/images/funnyarpi.png"
+avatar: "/assets/images/veggies/horvath.png"
 memord: 003
 links:
 - label: "Website"

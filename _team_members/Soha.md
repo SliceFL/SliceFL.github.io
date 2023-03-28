@@ -1,7 +1,7 @@
 ---
 name: Péter Attila Soha
 position: PhD student
-avatar: "/assets/images/funnyarpi.png"
+avatar: "/assets/images/veggies/soha.png"
 memord: 005
 links:
 - label: "Website"

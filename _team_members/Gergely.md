@@ -1,7 +1,7 @@
 ---
 name: Dr. Tamás Gergely
 position: Assistant professor
-avatar: "/assets/images/funnyarpi.png"
+avatar: "/assets/images/veggies/gergely.png"
 memord: 002
 links:
 - label: "Website"

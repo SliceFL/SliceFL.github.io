@@ -1,7 +1,7 @@
 ---
 name: Dr. Árpád Beszédes
 position: Associate professor
-avatar: "/assets/images/funnyarpi.png"
+avatar: "/assets/images/veggies/beszedes.png"
 memord: 001
 links:
 - label: "Website"
