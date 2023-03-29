@@ -14,9 +14,9 @@ The SliceFL project was created and is maintained by the Software Testing Group 
 
 ## The team
 
-{% for team_member in site.team_members %}
-  <img src="{{team_member.avatar}}" width="100" height="100"/>
-  <a href="{{team_member.links.url}}">{{ team_member.name }}</a> - {{ team_member.position }}
+{% for member in site.data.team.members %}
+  <img src="{{member.avatar}}" width="100" height="100"/>
+  <a href="{{member.webpage}}">{{ member.name }}</a> - {{ member.position }}
   <hr>
 {% endfor %}
 
