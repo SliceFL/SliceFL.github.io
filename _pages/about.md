@@ -5,6 +5,8 @@ toc: true
 toc_label: "Content"
 toc_icon: "cog"
 toc_sticky: true
+header:
+  overlay_image: /assets/images/banners/aboutus.jpg
 
 ---
 
@@ -24,3 +26,5 @@ Their research interests include testing, debugging, and investigating the effec
 ## Contact us!
 
 If you are interested in any of our topics or just have a question, please contact us at <a href="mailto:slicefl@inf.u-szeged.hu">slicefl@inf.u-szeged.hu</a>
+
+<img src="{{ site.url }}{{ site.baseurl }}/assets/images/banners/aboutus_foot.png" alt="Here we are!">
