@@ -72,7 +72,7 @@ whitelist:
 author:
   name   : "University of Szeged, Department of Software Engineering"
   avatar : "/assets/images/szte.png"
-  bio    : "This is the official webpage of the SliceFL project"
+  bio    : "The official webpage of SliceFL project"
   links:
     - label: "University of Szeged"
       icon: "fa-solid fa-landmark-flag"

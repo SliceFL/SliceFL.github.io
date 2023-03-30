@@ -23,4 +23,4 @@ header:
 
 ### How to cite
 
-*For each paper we provide the proper BibTeX entry, that can be used to refer the chosen publication.*
+*For each paper, we provide the proper BibTeX entry, that can be used to refer to the chosen publication.*

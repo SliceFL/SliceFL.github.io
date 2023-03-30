@@ -25,4 +25,4 @@ header:
 
 #### Package
 
-To obtain the replication package, please donwload [*`Dataset.zip`*](https://zenodo.org/record/7229602/files/Dataset.zip?download=1) from Zenodo.
+To obtain the replication package, please download [*`Dataset.zip`*](https://zenodo.org/record/7229602/files/Dataset.zip?download=1) from Zenodo.
