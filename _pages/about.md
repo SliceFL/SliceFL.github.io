@@ -12,8 +12,7 @@ header:
 
 ## Introduction
 
-The SliceFL project was created and is maintained by the Software Testing Group of the Department of Software Engineering at the University of Szeged, Institute of Informatics.
-Their research interests include testing, debugging, and investigating the effectiveness of automatic debugging methods.
+The SliceFL project was initiated and is maintained by the Software Testing and Debugging Group of the Department of Software Engineering at the University of Szeged. Our research interests include testing, debugging, and investigating the effectiveness of automatic debugging methods.
 
 ## The team
 
