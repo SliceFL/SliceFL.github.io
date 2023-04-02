@@ -1,24 +1,24 @@
 - name: Dr. Árpád Beszédes
-  avatar: /assets/images/avatars/beszedes.jpg
+  avatar: /assets/images/avatars/beszedes.png
   position: Associate professor
   webpage: http://www.inf.u-szeged.hu/~beszedes/eng/index.html
 
 - name: Dr. Tamás Gergely
-  avatar: /assets/images/avatars/gergely.jpg
+  avatar: /assets/images/avatars/gergely.png
   position: Assistant professor
   webpage: http://www.inf.u-szeged.hu/~gertom
 
 - name: Ferenc Horváth
-  avatar: /assets/images/avatars/horvath.jpg
+  avatar: /assets/images/avatars/horvath.png
   position: Assistant lecturer
   webpage: http://www.inf.u-szeged.hu/~hferenc
 
 - name: Péter Soha
-  avatar: /assets/images/avatars/soha.jpg
+  avatar: /assets/images/avatars/soha.png
   position: PhD Student
   webpage: http://www.inf.u-szeged.hu/~psoha
 
 - name: Béla Vancsics
-  avatar: /assets/images/avatars/vancsics.jpg
+  avatar: /assets/images/avatars/vancsics.png
   position: PhD candidate
   webpage: http://www.inf.u-szeged.hu/~vancsics

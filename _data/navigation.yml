@@ -1,12 +1,14 @@
 main:
-  - title: "About us"
-    url: /about/
+  - title: "Home"
+    url: /
   - title: "Techniques"
     url: /techniques/
   - title: "Publications"
     url: /publications/
   - title: "Downloads"
     url: /downloads/
+  - title: "About us"
+    url: /about/
     
 #docs:
 #  - title: Navigation
