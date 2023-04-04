@@ -18,7 +18,7 @@ header:
 {% if post.categories contains "Advanced"%}
 <section id="Advanced" class="taxonomy__section">
     <div class="entries-{{ entries_layout }}">
-        {% include archive-single.html type=entries_layout %}
+        {% include archive-single.html type=entries_layout %}... Click on the title for more details. 
     </div>
     <a href="#page-title" class="back-to-top">{{ site.data.ui-text[site.locale].back_to_top | default: 'Back to Top' }} &uarr;</a>
   </section>
@@ -32,7 +32,7 @@ header:
 {% if post.categories contains "Fundamentals"%}
 <section id="Fundamentals" class="taxonomy__section">
     <div class="entries-{{ entries_layout }}">
-    {% include archive-single.html type=entries_layout %}
+    {% include archive-single.html type=entries_layout %}... Click on the title for more details. 
       </div>
       <a href="#page-title" class="back-to-top">{{ site.data.ui-text[site.locale].back_to_top | default: 'Back to Top' }} &uarr;</a>
   </section>
