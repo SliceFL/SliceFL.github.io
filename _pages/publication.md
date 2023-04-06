@@ -8,7 +8,7 @@ toc_label: "Content"
 toc_icon: "cog"
 toc_sticky: true
 header:
-  overlay_image: /assets/images/polc.jpg
+  overlay_image: /assets/images/banners/publications.jpg
 ---
 ## Conference papers
 

@@ -1,6 +1,6 @@
 ---
 permalink: /about/
-title: "Contributors of the SliceFL project"
+title: "Contributors"
 toc: true
 toc_label: "Content"
 toc_icon: "cog"
