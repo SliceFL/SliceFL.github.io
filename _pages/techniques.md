@@ -1,6 +1,6 @@
 ---
 permalink: /techniques/
-layout: single
+# layout: single
 
 title: "Techniques"
 toc: true
