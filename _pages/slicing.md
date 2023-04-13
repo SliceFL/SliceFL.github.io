@@ -8,7 +8,7 @@ toc_label: "Content"
 toc_icon: "cog"
 toc_sticky: true
 header:
-  overlay_image: /assets/images/tesztkep3.jpg
+  overlay_image: /assets/images/banners/techniques.jpg
 ---
 ## Program Slicing
 Program slicing is a software engineering technique that helps to isolate specific parts of a program that are relevant to a particular task. By slicing away the unused parts of the code, the relationships between different parts of a program can be better understood and bugs or performance issues can be more easily identified and fixed.
